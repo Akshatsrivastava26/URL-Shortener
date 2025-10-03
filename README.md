@@ -49,7 +49,7 @@ SHORT-URL/
 3. Create a `.env` file in the root folder and add:
    ```env
    MONGO_URI=your_mongodb_connection_string
-   PORT=5000
+   PORT=8002
    ```
 
 4. Start the server:
